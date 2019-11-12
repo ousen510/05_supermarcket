@@ -1,0 +1,46 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: OnTheStage - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP2177.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/OnTheStage.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Administrator\Desktop\待删\某超市进销存管理系统(C++_Oracle开发源码)\OnTheStage\ADOConn.cpp"
+"C:\Users\Administrator\Desktop\待删\某超市进销存管理系统(C++_Oracle开发源码)\OnTheStage\Login.cpp"
+"C:\Users\Administrator\Desktop\待删\某超市进销存管理系统(C++_Oracle开发源码)\OnTheStage\OnTheStageDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP2177.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP2178.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/OnTheStage.pdb" /debug /machine:I386 /out:"Debug/OnTheStage.exe" /pdbtype:sept 
+".\Debug\ADOConn.obj"
+".\Debug\Insertdlg.obj"
+".\Debug\Login.obj"
+".\Debug\OnTheStage.obj"
+".\Debug\OnTheStageDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\OnTheStage.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP2178.tmp"
+<h3>Output Window</h3>
+Compiling...
+ADOConn.cpp
+c:\users\administrator\desktop\待删\某超市进销存管理系统(c++_oracle开发源码)\onthestage\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Login.cpp
+c:\users\administrator\desktop\待删\某超市进销存管理系统(c++_oracle开发源码)\onthestage\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+OnTheStageDlg.cpp
+c:\users\administrator\desktop\待删\某超市进销存管理系统(c++_oracle开发源码)\onthestage\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+OnTheStage.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
