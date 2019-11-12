@@ -1,0 +1,91 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SuperMarket - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPD3EC.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/SuperMarket.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\Backdlg.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\Backquerydlg.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\Daydlg.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\DepotBackdlg.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\Depotbqdlg.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\DepotCountdlg.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\Depotdlg.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\Employees.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\Login.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\Monthdlg.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\Providedlg.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\Sellquerydlg.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\Shangpindlg.cpp"
+"C:\Users\Administrator\Desktop\´ıÉ¾\SuperMarket\Userdlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPD3EC.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPD3FD.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/SuperMarket.pdb" /debug /machine:I386 /out:"Debug/SuperMarket.exe" /pdbtype:sept 
+".\Debug\ADOConn.obj"
+".\Debug\Backdlg.obj"
+".\Debug\Backquerydlg.obj"
+".\Debug\Daydlg.obj"
+".\Debug\DepotBackdlg.obj"
+".\Debug\Depotbqdlg.obj"
+".\Debug\DepotCountdlg.obj"
+".\Debug\Depotdlg.obj"
+".\Debug\Employees.obj"
+".\Debug\Login.obj"
+".\Debug\Monthdlg.obj"
+".\Debug\Providedlg.obj"
+".\Debug\Sellquerydlg.obj"
+".\Debug\Shangpindlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\SuperMarket.obj"
+".\Debug\SuperMarketDlg.obj"
+".\Debug\Userdlg.obj"
+".\Debug\SuperMarket.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPD3FD.tmp"
+<h3>Output Window</h3>
+Compiling...
+Backdlg.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Backquerydlg.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Daydlg.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+DepotBackdlg.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Depotbqdlg.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+DepotCountdlg.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Depotdlg.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Employees.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Login.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Monthdlg.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Providedlg.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Sellquerydlg.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Shangpindlg.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Userdlg.cpp
+c:\users\administrator\desktop\´ıÉ¾\supermarket\debug\msado15.tlh(476) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+SuperMarket.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
